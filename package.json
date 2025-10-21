@@ -119,7 +119,7 @@
     "rollup-plugin-visualizer": "^5.9.0",
     "ts-jest": "^29.1.0",
     "typescript": "^5.0.4",
-    "vite": "^4.3.8",
+    "vite": "^5.4.21",
     "vite-plugin-dynamic-import": "^1.4.0",
     "vite-plugin-monkey": "^3.2.2",
     "vite-tsconfig-paths": "^4.2.0",
